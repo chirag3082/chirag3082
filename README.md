@@ -7,19 +7,20 @@
 
   
 
-**`Software Developer | Competitive Programmer | ML Enthusiast`**
+**`Software Developer | Competitive Programmer | Obsessed with how systems work`**
 
   
+- 🧑‍💼**Backend Developer @ OYO**
 
-- 🎓 **Btech Final Year Student** | **CSE (IOT)** at **NSUT, Delhi**
+- 🎓 **Computer Science Graduate** from **NSUT, Delhi**
 
-- 🌱 **Exploring**: Competitive Programming, ML, AI
+- 🌱 **Exploring**: Backend SystemsCompetitive Programming, ML, AI
 
 - 💻 **Completed**: MERN Stack Web Development
 
 - 🎵 **Interests**: Coding, Online Gaming
 
-- 💼 **Skills**: React, Web3, Blockchain, Machine Learning
+- 💼 **Skills**: Developng backend microservices using Java (Spring Boot), Full stack development using MERN
 
   
 
